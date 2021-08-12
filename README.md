@@ -1,6 +1,6 @@
 # flutter_intro_slider
 
-Flutter Intro Slider app is simple slider which you can display in .I hope you like it. If you like than please press star button. 
+Flutter Intro Slider app is simple slider which you can display in your app.I hope you like it. If you like than please press star button. 
 
 # Screenshot
 ![Screenshot_20210812_123547](https://user-images.githubusercontent.com/17822076/129153499-ba1eb90f-3a7f-4576-bcf7-08540ced1828.jpg)
